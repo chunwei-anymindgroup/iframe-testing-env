@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/iframe-testing-env/static/css/main.6dea0f05.chunk.css",
-    "main.js": "/iframe-testing-env/static/js/main.472c66d8.chunk.js",
-    "main.js.map": "/iframe-testing-env/static/js/main.472c66d8.chunk.js.map",
+    "main.js": "/iframe-testing-env/static/js/main.ba55ea1a.chunk.js",
+    "main.js.map": "/iframe-testing-env/static/js/main.ba55ea1a.chunk.js.map",
     "runtime-main.js": "/iframe-testing-env/static/js/runtime-main.2c8c92c9.js",
     "runtime-main.js.map": "/iframe-testing-env/static/js/runtime-main.2c8c92c9.js.map",
     "static/js/2.81773af4.chunk.js": "/iframe-testing-env/static/js/2.81773af4.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.2c8c92c9.js",
     "static/js/2.81773af4.chunk.js",
     "static/css/main.6dea0f05.chunk.css",
-    "static/js/main.472c66d8.chunk.js"
+    "static/js/main.ba55ea1a.chunk.js"
   ]
 }
